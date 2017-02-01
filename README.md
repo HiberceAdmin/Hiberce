@@ -1,2 +1,2 @@
 # Hiberce
-Hiberce repositry
+Hiberce repository
